@@ -1,0 +1,16 @@
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.png
+*.PNG
+*.bmp
+*.BMP
+
+
+*.pt
+*.pth
+
+*.txt
+*.csv
+*.json
